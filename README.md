@@ -1,4 +1,4 @@
-[[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=text%20Box%20🤖&width=800&height=400)](https://github.com/Akshay090/svg-banners)](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+[[[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=text%20Box%20🤖&width=800&height=400)](https://github.com/Akshay090/svg-banners)](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Abhishek Adithya</h1>
 <h3 align="center">A UI, UX, and front-end developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
